@@ -1,0 +1,6 @@
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\ciftyonluquiz.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\ciftyonluquiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\cifyonlubagliliste.Form1.resources
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\cifyunlubagliliste.Properties.Resources.resources
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\ciftyonluquiz.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Desktop\C#\ciftyonluquiz\obj\Debug\ciftyonluquiz.csproj.CoreCompileInputs.cache
